@@ -2,8 +2,8 @@ body {
   margin: 0;
 }
 img {
-  width: 100%
-  height:auto;
+  width: 100%;
+  height: auto;
 }
 .container {
   display: flex;
